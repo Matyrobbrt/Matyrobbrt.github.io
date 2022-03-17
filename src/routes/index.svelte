@@ -3,18 +3,23 @@
   import Footer from "$lib/Footer.svelte";
   import ThemeSwitcher from "$lib/ThemeSwitcher.svelte";
   import BootstrapImporter from "$lib/BootstrapImporter.svelte";
+  import DiscordEmbedData from "$lib/DiscordEmbedData.svelte";
   import { CardGroup, Container } from "sveltestrap";
   import "../global.css";
   import "./__layout.svelte";
 </script>
 
-<head>
-  <BootstrapImporter />
-</head>
+<DiscordEmbedData
+  url="https://matyrobbrt.com"
+  description="Matyrobbrt's portofolio of minecraft mods and programming stuff."
+  image="https://avatars.githubusercontent.com/u/65940752?s=40&v=4"
+  colour="#FFFF00"
+/>
+<BootstrapImporter />
 
 <Container>
   <main>
-    <section id="links"  width="20%">
+    <section id="links" width="20%">
       <h2><a href="./#links" class="no-highlight">Links</a></h2>
       <br />
       <CardGroup>

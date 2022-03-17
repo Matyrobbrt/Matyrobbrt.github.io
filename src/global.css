@@ -10,8 +10,3 @@ a.no-highlight:hover {
 a.no-highlight:active {
   text-decoration: none;
 }
-
-body {
-  background-color: #003c3c;
-  color: white;
-}
