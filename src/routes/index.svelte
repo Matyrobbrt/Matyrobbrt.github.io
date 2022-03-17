@@ -11,7 +11,7 @@
 
 <DiscordEmbedData
   url="https://matyrobbrt.com"
-  description="Matyrobbrt's portofolio of minecraft mods and programming stuff."
+  description="Matyrobbrt's portofolio of Minecraft mods and programming stuff."
   image="https://avatars.githubusercontent.com/u/65940752?s=40&v=4"
   colour="#FFFF00"
 />
