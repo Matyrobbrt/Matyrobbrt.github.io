@@ -1,0 +1,17 @@
+a.no-highlight:link {
+  text-decoration: none;
+}
+a.no-highlight:visited {
+  text-decoration: none;
+}
+a.no-highlight:hover {
+  text-decoration: none;
+}
+a.no-highlight:active {
+  text-decoration: none;
+}
+
+body {
+  background-color: #003c3c;
+  color: white;
+}
